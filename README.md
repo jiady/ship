@@ -1,7 +1,7 @@
 # ship
 This Project is a game written in python, it is written when I was a fresh man in university. So the coding style may not be very mature and I even don’t what is Object Oriented method. 
 So just treat it as a toy.
-Here is some screenshot:(It may take several seconds to load images)
+Here are some screenshots:(It may take several seconds to load images)
 ![][image-1]
 ![][image-2]
 ![][image-3]
